@@ -1,0 +1,1 @@
+Teste de raiz unitária, realizado para verificar se a base de dados é estacionaria. Neste arquivo é realizado o teste ADF (Dickey-Fuller Aumentado) no entanto tambem é possivel realizar o teste de Phillips Perron
